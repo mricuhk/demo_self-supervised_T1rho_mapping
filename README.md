@@ -5,4 +5,4 @@ Download the model [here](https://drive.google.com/drive/folders/1LN5iQa80_mcDQe
 
 Simply run thr demo.py script. This is what you will get:  
 
-![Liver_input](map/liver_inputpng.png =50x)|![Liver](map/liver_trho.png)
+![Liver_input](map/liver_inputpng.png =50x)![Liver](map/liver_trho.png)
